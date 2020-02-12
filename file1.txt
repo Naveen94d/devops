@@ -1,7 +1,0 @@
-Install  chocolatey for  smooth installation for every thing.
-
-?	First, ensure that you are using an administrative shell - you can also install as a non-admin, check out Non-Administrative Installation.
-?	Copy the text specific to your command shell - cmd.exe or powershell.exe.
-?	Paste the copied text into your shell and press Enter.
-?	Wait a few seconds for the command to complete.
-?	If you don't see any errors, you are ready to use Chocolatey! Type choco or choco -? Now
